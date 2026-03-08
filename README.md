@@ -1,9 +1,7 @@
-## Hi there 👋
-
 <div align="center">
   <h1>Hi, I'm Hilal 👋</h1>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E97A7&center=true&vCenter=true&repeat=true&width=500&lines=Energy+Systems+Engineer;Aspiring+Data+Analyst;Python+%26+SQL+Developer;Analytical+%26+Motivated+%26+Disciplined+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E97A7&center=true&vCenter=true&repeat=true&width=500&lines=Energy+Systems+Engineer;Aspiring+Data+Scientist;Python+%26+SQL+Developer;Analytical+%26+Motivated+%26+Disciplined+%F0%9F%9A%80" alt="Typing SVG" />
   <br/>
 </div>
 
@@ -67,8 +65,8 @@ By combining my operational and analytical experience in the energy sector with 
 
 ## 🎓 Education & Development
 
-- 🎓 **B.S.** — *(Add your university here)*
-- 📚 **Data Science Bootcamp / Course** — *(Add your courses here)*
+- 🎓 **B.S.** — *Osmaniye Korkut Ata University*
+- 📚 **Data Science Bootcamp / Course** — *Miuul*
 - 🏅 **Kaggle** — Active project development
 
 ---
