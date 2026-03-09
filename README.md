@@ -7,9 +7,7 @@
 
 <img align="right" alt="Coding" width="380" 
 src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif">
-
 ## 🚀 About Me
-
 I am an **Energy Systems Engineer** with experience in maintenance, planning, and reporting processes. I aim to continue my career in the energy sector and/or in data-oriented roles.
 
 I used a career break taken due to marriage and relocation  to develop my skills in data analysis and data visualization using Python. I work with Pandas and NumPy to perform analyses and transform data into meaningful insights.
