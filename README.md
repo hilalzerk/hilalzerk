@@ -6,7 +6,8 @@
 </div>
 
 <img align="right" alt="Coding" width="380" 
-src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif">
+src="[https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif](https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-9PhdJO4CMfyfXDCnko)">
+
 ## 🚀 About Me
 I am an **Energy Systems Engineer** with experience in maintenance, planning, and reporting processes. I aim to continue my career in the energy sector and/or in data-oriented roles.
 
@@ -64,7 +65,6 @@ By combining my operational and analytical experience in the energy sector with 
 
 ## 🎓 Education & Development
 
-- 🎓 **B.S.** — *Osmaniye Korkut Ata University*
 - 📚 **Data Science Bootcamp / Course** — *Miuul*
 - 🏅 **Kaggle** — Active project development
 
