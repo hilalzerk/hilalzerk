@@ -5,8 +5,7 @@
   <br/>
 </div>
 
-<img align="right" alt="Coding" width="380" 
-src="[https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif](https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-9PhdJO4CMfyfXDCnko)">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif">
 
 ## 🚀 About Me
 I am an **Energy Systems Engineer** with experience in maintenance, planning, and reporting processes. I aim to continue my career in the energy sector and/or in data-oriented roles.
