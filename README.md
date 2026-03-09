@@ -1,17 +1,18 @@
 <div align="center">
   <h1>Hi, I'm Hilal 👋</h1>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E97A7&center=true&vCenter=true&repeat=true&width=500&lines=Energy+Systems+Engineer;Aspiring+Data+Scientist;Python+%26+SQL+Developer;Analytical+%26+Motivated+%26+Disciplined+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E97A7&center=true&vCenter=true&repeat=true&width=500&lines=Energy+Systems+Engineer+%E2%9A%A1;Transitioning+into+Data+%F0%9F%9A%80;Passionate+Learner+%F0%9F%94%A5;Turning+Data+into+Insights+%F0%9F%92%A1;;Curious+%7C+Driven+%7C+Never+Stopping+%E2%9C%A8" alt="Typing SVG" />
   <br/>
 </div>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="380" 
+src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif">
 
 ## 🚀 About Me
 
 I am an **Energy Systems Engineer** with experience in maintenance, planning, and reporting processes. I aim to continue my career in the energy sector and/or in data-oriented roles.
 
-I used a career break — taken due to marriage and relocation — to develop my skills in data analysis and data visualization using Python. I work with Pandas and NumPy to perform analyses and transform data into meaningful insights.
+I used a career break taken due to marriage and relocation  to develop my skills in data analysis and data visualization using Python. I work with Pandas and NumPy to perform analyses and transform data into meaningful insights.
 
 By combining my operational and analytical experience in the energy sector with data-driven decision-making approaches, I am ready to return actively to professional life as an **analytical, motivated, and disciplined** engineer.
 
@@ -19,7 +20,7 @@ By combining my operational and analytical experience in the energy sector with 
 - 🌱 **Currently learning:** Python · SQL · Machine Learning · Data Visualization
 - 🔭 **Working on:** E-Commerce CRM Analysis (RFM & CLTV)
 - 💼 **Goal:** Data Analyst role in the energy sector or a data-driven field
-- 📍 **Location:** İzmir, Turkey
+- 📍 **Location:** İstanbul, Turkey
 - 📫 **Contact:** Reach me via [LinkedIn](https://www.linkedin.com/in/hilal-z-698837134/)
 
 ---
