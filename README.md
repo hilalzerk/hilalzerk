@@ -44,14 +44,6 @@ By combining my operational and analytical experience in the energy sector with 
 
 ---
 
-## 📊 Featured Projects
-
-### 🛒 [E-Commerce CRM Analysis](https://github.com/hilalzerk/Ecommerce-CRM-Analysis)
-> Analyzed customer behavior using RFM segmentation, CLTV prediction, and predictive modeling.
-> `Python` `Pandas` `Scikit-learn` `Lifetimes`
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
