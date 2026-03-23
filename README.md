@@ -16,8 +16,7 @@ By combining my operational and analytical experience in the energy sector with 
 
 - ⚡ **Background:** Energy Systems · Maintenance & Planning · Reporting
 - 🌱 **Currently learning:** Python · SQL · Machine Learning · Data Visualization
-- 🔭 **Working on:** E-Commerce CRM Analysis (RFM & CLTV)
-- 💼 **Goal:** Data Analyst role in the energy sector or a data-driven field
+- 💼 **Goal:** Data Scientist role in the energy sector or a data-driven field
 - 📍 **Location:** İstanbul, Turkey
 - 📫 **Contact:** Reach me via [LinkedIn](https://www.linkedin.com/in/hilal-z-698837134/)
 
